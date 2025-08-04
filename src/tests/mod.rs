@@ -1,4 +1,5 @@
 mod n_1;
+mod n_11;
 mod n_125;
 mod n_128;
 mod n_167;
@@ -9,3 +10,6 @@ mod n_271;
 mod n_347;
 mod n_424;
 mod n_49;
+mod n_42;
+mod n_53;
+mod n_58;
